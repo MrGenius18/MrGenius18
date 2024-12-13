@@ -1,7 +1,7 @@
-# Mr. Bhautik Gondaliya
+# Mr. Genius
  
 # 💫 About Me:
-I'm Bhautik Gondaliya, a data science enthusiast with a certification in Data Science from Intellipaat. Skilled in Python, SQL, and data visualization, I specialize in data preprocessing, analysis, and machine learning. As a fresher, I bring hands-on experience from academic projects and a passion for leveraging data to drive impactful decisions. Let’s connect and explore opportunities in data science!
+I'm **Bhautik Gondaliya**, a data science enthusiast with a certification in Data Science from Intellipaat. Skilled in Python, SQL, and data visualization, I specialize in data preprocessing, analysis, and machine learning. As a fresher, I bring hands-on experience from academic projects and a passion for leveraging data to drive impactful decisions. Let’s connect and explore opportunities in data science!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr._genius_18/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhautik-gondaliya-9b497026a/) 
