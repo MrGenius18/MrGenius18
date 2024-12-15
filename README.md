@@ -3,7 +3,7 @@
 # 💫 About Me:
 Hi, I’m Bhautik Gondaliya, a passionate and dedicated data science enthusiast with a strong foundation in Computer Science. I recently completed a comprehensive Data Science course at Intellipaat, where I honed my skills in Python, Machine Learning, Data Visualization, Deep Learning.
 
-Graduating with a B.E. in Computer Science from Gujarat Technological University (GTU), I have developed a keen interest in extracting insights from data to solve complex problems. I’m eager to apply my skills in real-world projects, contribute to impactful solutions, and grow my expertise in the dynamic field of Data Science.
+I have completed my B.E. in Computer Science from Gujarat Technological University (GTU) and have a strong interest in using data to find valuable insights and solve problems. I am excited to work on real-world projects, create meaningful solutions, and grow my skills in the fast-changing field of Data Science.
 
 I’m constantly learning and stay updated on the latest trends in technology and data. My goal is to contribute to innovative, data-driven solutions that create real-world impact.
 
