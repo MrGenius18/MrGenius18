@@ -1,6 +1,16 @@
-# Mr. Genius
- 
-# 💫 About Me:
+<img align="right" src="https://visitcount.itsvg.in/api?id=MrGenius18&icon=0&color=0" alt="Visitor Count" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bhautik+Gondaliya!;" />
+</h1>
+<h2 align="center">A passionate Data Science</h2>
+
+<hr/>
+<br>
+
+
+<h2 align="center">💫 About Me 💫</h2>
+
 Hi, I’m Bhautik Gondaliya, a passionate and dedicated data science enthusiast with a strong foundation in Computer Science. I recently completed a comprehensive Data Science course at Intellipaat, where I honed my skills in Python, Machine Learning, Data Visualization, Deep Learning.
 
 I have completed my B.E. in Computer Science from Gujarat Technological University (GTU) and have a strong interest in using data to find valuable insights and solve problems. I am excited to work on real-world projects, create meaningful solutions, and grow my skills in the fast-changing field of Data Science.
@@ -9,11 +19,15 @@ I’m constantly learning and stay updated on the latest trends in technology an
 
 ➡️Call to Action:
 I’m open to entry-level opportunities in Data Science or related fields. Let’s connect to share ideas, collaborate, or discuss exciting opportunities!
+<br>
+<h2 align="center">🌐 Socials 🌐</h2>
 
-## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://mrgenius18.github.io/My_Portfolio/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhautik-gondaliya-9b497026a/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mr._genius_18/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCtoL7bkXZ30tPQUpQjI3wIA) ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
 
-# 💻 Tech Stack:
+<hr/>
+<br>
+
+<h2 align="center">💻 Tech Stack 💻</h2>
 
 ### Languages / Databases
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -36,15 +50,22 @@ I’m open to entry-level opportunities in Data Science or related fields. Let�
 ### Developing Tools
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MrGenius18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MrGenius18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGenius18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<hr/>
+<br>
 
-## 🏆 GitHub Trophies
+<h2 align="center">⚡ Stats ⚡</h2>
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MrGenius18&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=MrGenius18&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MrGenius18&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&border_radius=10" alt="top languages" />
+</div>
+
+<hr/>
+<br>
+
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+
 ![](https://github-profile-trophy.vercel.app/?username=MrGenius18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MrGenius18&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
