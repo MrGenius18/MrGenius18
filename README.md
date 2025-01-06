@@ -58,7 +58,7 @@ I’m open to entry-level opportunities in Data Science or related fields. Let�
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/MrGenius18/MrGenius18/blob/Output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MrGenius18/MrGenius18/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
