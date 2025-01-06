@@ -1,4 +1,3 @@
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MrGenius18.MrGenius18" />
 
 <h1 align="center">
@@ -6,27 +5,21 @@
 </h1>
 <h2 align="center">A passionate Data Science</h2>
 
-<hr/>
-<br>
-
-
 <h2 align="center">💫 About Me 💫</h2>
 
-Hi, I’m Bhautik Gondaliya, a passionate and dedicated data science enthusiast with a strong foundation in Computer Science. I recently completed a comprehensive Data Science course at Intellipaat, where I honed my skills in Python, Machine Learning, Data Visualization, Deep Learning.
+Hi, `I’m Bhautik Gondaliya`, a passionate and dedicated data science enthusiast with a strong foundation in Computer Science. I `recently completed a comprehensive Data Science course at Intellipaat`, where I honed my skills in Python, Machine Learning, Data Visualization, Deep Learning.
 
-I have completed my B.E. in Computer Science from Gujarat Technological University (GTU) and have a strong interest in using data to find valuable insights and solve problems. I am excited to work on real-world projects, create meaningful solutions, and grow my skills in the fast-changing field of Data Science.
+I have `completed my B.E. in Computer Science from Gujarat Technological University (GTU)` and have a strong interest in using data to find valuable insights and solve problems. I am excited to work on real-world projects, create meaningful solutions, and grow my skills in the fast-changing field of Data Science.
 
-I’m constantly learning and stay updated on the latest trends in technology and data. My goal is to contribute to innovative, data-driven solutions that create real-world impact.
+**I’m constantly learning and stay updated on the latest trends in technology and data. My goal is to contribute to innovative, data-driven solutions that create real-world impact.**
 
-➡️Call to Action:
-I’m open to entry-level opportunities in Data Science or related fields. Let’s connect to share ideas, collaborate, or discuss exciting opportunities!
+➡️ **`Call to Action:`** I’m open to entry-level opportunities in Data Science or related fields. Let’s connect to share ideas, collaborate, or discuss exciting opportunities!
 <br>
 <h2 align="center">🌐 Socials 🌐</h2>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://mrgenius18.github.io/My_Portfolio/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhautik-gondaliya-9b497026a/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mr._genius_18/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCtoL7bkXZ30tPQUpQjI3wIA) ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
 
-<hr/>
-<br>
+---
 
 <h2 align="center">💻 Tech Stack 💻</h2>
 
@@ -51,19 +44,17 @@ I’m open to entry-level opportunities in Data Science or related fields. Let�
 ### Developing Tools
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-<hr/>
-<br>
-<hr/>
+---
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MrGenius18/MrGenius18/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
-<hr/>
+---
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
@@ -73,11 +64,7 @@ I’m open to entry-level opportunities in Data Science or related fields. Let�
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MrGenius18&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&border_radius=10" alt="top languages" />
 </div>
 
-<hr/>
-<br>
-
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-
-![](https://github-profile-trophy.vercel.app/?username=MrGenius18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ---
+
+<!-- <h2 align="center">🏆 GitHub Trophies 🏆</h2> -->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=MrGenius18&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
