@@ -29,6 +29,9 @@ I have `completed my B.E. in Computer Science from Gujarat Technological Univers
   <a href="https://www.youtube.com/channel/UCtoL7bkXZ30tPQUpQjI3wIA">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
   </a>
+  <a href="https://drive.google.com/file/d/1hJWkhBIF2OzLJxIa1_dSZhTtV_j_xcTI/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge" alt="Download Resume">
+  </a>
 </p>
 
 ---
