@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mr.+Bhautik+Gondaliya!;" />
 </h1>
-<h2 align="center">A passionate Data Science</h2>
+<h2 align="center">A passionate AI Automation Engineer & Data Scientist</h2>
 
 <h2 align="center">💫 About Me 💫</h2>
 
@@ -23,14 +23,8 @@ I have `completed my B.E. in Computer Science from Gujarat Technological Univers
   <a href="https://linkedin.com/in/bhautik-gondaliya-9b497026a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://instagram.com/mr._genius_18/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
   <a href="https://www.youtube.com/channel/UCtoL7bkXZ30tPQUpQjI3wIA">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
-  </a>
-  <a href="https://drive.google.com/file/d/1hJWkhBIF2OzLJxIa1_dSZhTtV_j_xcTI/view" target="_blank">
-    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge" alt="Download Resume">
   </a>
 </p>
 
